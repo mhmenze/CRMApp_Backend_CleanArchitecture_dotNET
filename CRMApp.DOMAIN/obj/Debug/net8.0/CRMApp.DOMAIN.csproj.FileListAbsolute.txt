@@ -1,0 +1,11 @@
+F:\XONT\CRMApp\CRMApp.DOMAIN\bin\Debug\net8.0\CRMApp.DOMAIN.deps.json
+F:\XONT\CRMApp\CRMApp.DOMAIN\bin\Debug\net8.0\CRMApp.DOMAIN.dll
+F:\XONT\CRMApp\CRMApp.DOMAIN\bin\Debug\net8.0\CRMApp.DOMAIN.pdb
+F:\XONT\CRMApp\CRMApp.DOMAIN\obj\Debug\net8.0\CRMApp.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+F:\XONT\CRMApp\CRMApp.DOMAIN\obj\Debug\net8.0\CRMApp.DOMAIN.AssemblyInfoInputs.cache
+F:\XONT\CRMApp\CRMApp.DOMAIN\obj\Debug\net8.0\CRMApp.DOMAIN.AssemblyInfo.cs
+F:\XONT\CRMApp\CRMApp.DOMAIN\obj\Debug\net8.0\CRMApp.DOMAIN.csproj.CoreCompileInputs.cache
+F:\XONT\CRMApp\CRMApp.DOMAIN\obj\Debug\net8.0\CRMApp.DOMAIN.dll
+F:\XONT\CRMApp\CRMApp.DOMAIN\obj\Debug\net8.0\refint\CRMApp.DOMAIN.dll
+F:\XONT\CRMApp\CRMApp.DOMAIN\obj\Debug\net8.0\CRMApp.DOMAIN.pdb
+F:\XONT\CRMApp\CRMApp.DOMAIN\obj\Debug\net8.0\ref\CRMApp.DOMAIN.dll

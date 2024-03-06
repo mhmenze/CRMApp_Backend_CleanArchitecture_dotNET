@@ -1,0 +1,27 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace CRMApp.DOMAIN.Entities
+{
+    public class Customer
+    {
+        public int Id { get; set; }
+
+        [Required]
+        public string? FirstName { get; set; }
+
+        [Required]
+        public string? LastName { get; set; }
+        public string? Company { get; set; }
+
+        [EmailAddress]
+        public string? Email { get; set; }
+
+        [Phone]
+        public string? PhoneNumber { get; set; }
+
+        public string? Address { get; set; }
+
+        public Enums.CustomerType? CustomerType { get; set; }
+
+    }
+}

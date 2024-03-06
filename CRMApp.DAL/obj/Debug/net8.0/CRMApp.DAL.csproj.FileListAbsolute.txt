@@ -1,0 +1,17 @@
+F:\XONT\CRMApp\CRMApp.DAL\bin\Debug\net8.0\CRMApp.DAL.deps.json
+F:\XONT\CRMApp\CRMApp.DAL\bin\Debug\net8.0\CRMApp.DAL.dll
+F:\XONT\CRMApp\CRMApp.DAL\bin\Debug\net8.0\CRMApp.DAL.pdb
+F:\XONT\CRMApp\CRMApp.DAL\bin\Debug\net8.0\CRMApp.DOMAIN.dll
+F:\XONT\CRMApp\CRMApp.DAL\bin\Debug\net8.0\CRMApp.DOMAIN.pdb
+F:\XONT\CRMApp\CRMApp.DAL\obj\Debug\net8.0\CRMApp.DAL.csproj.AssemblyReference.cache
+F:\XONT\CRMApp\CRMApp.DAL\obj\Debug\net8.0\CRMApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\XONT\CRMApp\CRMApp.DAL\obj\Debug\net8.0\CRMApp.DAL.AssemblyInfoInputs.cache
+F:\XONT\CRMApp\CRMApp.DAL\obj\Debug\net8.0\CRMApp.DAL.AssemblyInfo.cs
+F:\XONT\CRMApp\CRMApp.DAL\obj\Debug\net8.0\CRMApp.DAL.csproj.CoreCompileInputs.cache
+F:\XONT\CRMApp\CRMApp.DAL\obj\Debug\net8.0\CRMApp.DAL.dll
+F:\XONT\CRMApp\CRMApp.DAL\obj\Debug\net8.0\refint\CRMApp.DAL.dll
+F:\XONT\CRMApp\CRMApp.DAL\obj\Debug\net8.0\CRMApp.DAL.pdb
+F:\XONT\CRMApp\CRMApp.DAL\obj\Debug\net8.0\ref\CRMApp.DAL.dll
+F:\XONT\CRMApp\CRMApp.DAL\bin\Debug\net8.0\CRMApp.DAL.runtimeconfig.json
+F:\XONT\CRMApp\CRMApp.DAL\obj\Debug\net8.0\CRMApp.DAL.genruntimeconfig.cache
+F:\XONT\CRMApp\CRMApp.DAL\obj\Debug\net8.0\CRMApp.DAL.csproj.CopyComplete

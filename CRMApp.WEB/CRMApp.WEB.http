@@ -1,0 +1,6 @@
+@CRMApp.WEB_HostAddress = http://localhost:5120
+
+GET {{CRMApp.WEB_HostAddress}}/customers/
+Accept: application/json
+
+###
